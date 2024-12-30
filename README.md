@@ -34,8 +34,11 @@ unorders list
 - 목차2
     - 하위 목차 1
  
-강조하고 싶은 한줄코드 'python'
+강조하고 싶은 한줄코드 `python`
 ```python
 name = "윤웅상"
 age = 27
 ```
+
+[네이버로 가기](https://www.naver.com/)
+
