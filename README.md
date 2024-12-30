@@ -43,3 +43,4 @@ age = 27
 
 [네이버로 가기](https://www.naver.com/)
 
+[짱구](https://i.imgur.com/oGT2gTS.jpeg)
